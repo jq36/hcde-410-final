@@ -5,6 +5,33 @@ This project focuses on analyzing the factors influencing user ratings of Google
 
 ---
 
+## **File Descriptions**
+
+### **1. Distribution of App Categories.jpg**
+This image visualizes the distribution of app categories within the dataset, providing insights into the prevalence of different app types.
+
+### **2. Final.ipynb**
+This Jupyter Notebook contains the full implementation of the project, including data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
+
+### **3. LICENSE**
+The project is distributed under the MIT License, which specifies the terms for reusing and distributing the code and content.
+
+### **4. README.md**
+This file provides an overview of the project, including objectives, methodology, deliverables, and file descriptions.
+
+### **5. Short Scientific Report.ipynb**
+A concise version of the project report in Jupyter Notebook format, summarizing key findings and visualizations.
+
+### **6. distribution_of_app_rating_bycategory.jpg**
+This image shows the distribution of user ratings across different app categories, highlighting trends and variations in user satisfaction.
+
+### **7. googleplaystore.csv**
+The dataset used for the project, containing detailed information about Google Play Store apps, including features such as category, size, price, installs, and user ratings.
+
+### **8. plot_feature_importances.jpg**
+This image visualizes the feature importance scores from the Random Forest model, illustrating which attributes most strongly influence user ratings.
+
+---
 ## **Objectives**
 1. Analyze the relationship between various app attributes (e.g., category, size, price) and user ratings.
 2. Build and evaluate a predictive model for estimating app ratings.
